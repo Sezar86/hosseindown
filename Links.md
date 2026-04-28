@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-28 12:39 IR
+- 📱 [mhrv-rs-android-arm64-v8a-v1.8.0.apk](https://github.com/Sezar86/hosseindown/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.8.0.apk) `18.0MB`
+
+- 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/Sezar86/hosseindown/raw/main/dl/mhrv-rs-windows-amd64.zip) `6.9MB`
+
+---
+
+
 ### 📅 2026-04-28 11:32 IR
 - 🗜️ [MasterDnsVPN_Client_Windows_X86.zip](https://github.com/Sezar86/hosseindown/raw/main/dl/MasterDnsVPN_Client_Windows_X86.zip) `4.0MB`
 
